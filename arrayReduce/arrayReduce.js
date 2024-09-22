@@ -5,7 +5,7 @@
 
 // Add all the elements in the array 
 
-const nums = [5,10,15,20,25,30,35];
+const nums = [5,10,15,20,25,30,35]
 
 let sum = 0;
 for(let i=0;i<nums.length;i++){
